@@ -1,0 +1,142 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #4C5A42;
+}
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: 50px auto;
+  width: 90%;
+}
+th{
+  background: #4C5A42;
+  color: #fff;
+  font-weight: bolder;
+  font-size: 20px;
+  padding: 8px;
+}
+td{
+  font-weight: bold;
+  font-size: 14px;
+  padding: 8px;
+  text-align: center;
+}
+table tr:nth-child(even){
+  background: #eee;
+}
+table tr:nth-child(odd){
+  background: #fff;
+}
+table tr:hover td{
+  background: silver;
+}
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+  background:#4C5A42;
+}
+table{
+  border:1px solid black;
+  border-collapse:collapse;
+  margin:50px auto;
+  width:90%;
+}
+th{
+  background:#4C5A42;
+  color:#fff;
+  font-weight:bolder;
+  font-size:20px;
+  padding:8px;
+}
+td{
+  font-weight:bold;
+  font-size:14px;
+  padding:8px;
+  text-align:center;
+}
+table tr:nth-child(even){
+  background:#eee;
+}
+table tr:nth-child(odd){
+  background:#fff;
+}
+table tr:hover td{
+  background:silver;
+}
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+body{
+  background:#C3FFBF;
+}
+table{
+  border:1px solid black;
+  border-collapse:collapse;
+  margin:50px auto;
+  width:90%;
+}
+th{
+  background:#CF2BA1;
+  color:#fff;
+  font-weight:bolder;
+  font-size:20px;
+  padding:8px;
+}
+td{
+  font-weight:bold;
+  font-size:14px;
+  padding:8px;
+  text-align:center;
+}
+table tr:nth-child(even){
+  background:#FF1313;
+}
+table tr:nth-child(odd){
+  background:#FFFFFF;
+}
+table tr:hover td{
+  background:silver;
+}
+table.hola{
+  border-collapse:collapse;
+  margin:50px auto;
+  width:90%;
+}
+table.hola th{
+  background:#24DDFF;
+  color:#FFBADA;
+  font-weight:bolder;
+  font-size:20px;
+  padding:8px;
+}
+table.hola td{
+  font-weight:bold;
+  font-size:14px;
+  padding:8px;
+  text-align:center;
+}
+table.hola tr{
+  border-bottom:2px solid gray;
+}
+table.hola tr:nth-child(even){
+  background:#FFE6A0;
+}
+table.hola tr:nth-child(odd){
+  background:#FFB1FD;
+}
+table.hola tr td:hover{
+  background:#AEB5FF;
+}
+
+.Alex td{
+  height: 50px;
+}
